@@ -26,6 +26,10 @@ body {
   height: 100%;
   align-items: center; }
 
+  p {
+    font-family: 'Shadows Into Light Two', cursive;
+  }
+
 #main {
     overflow-x: visible;
     box-sizing: border-box;
@@ -38,9 +42,10 @@ body {
     /* justify-content: space-around; */
     background: rgba(0, 0, 0, 0.5);
     padding: 5px 20px;
-    color: blanchedalmond;
+    color: white;
     text-align: center;
-    box-shadow: 0 0 110px 0px #000;
+    box-shadow: 0 0 20px 0px #000;
+
     }
 
 .canvas-wrap {
