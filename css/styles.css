@@ -26,9 +26,7 @@ body {
   height: 100%;
   align-items: center; }
 
-  p {
-    font-family: 'Shadows Into Light Two', cursive;
-  }
+
 
 #main {
     overflow-x: visible;
@@ -47,6 +45,11 @@ body {
     box-shadow: 0 0 20px 0px #000;
 
     }
+
+
+      p {
+    font-family: 'Shadows Into Light Two', cursive;
+  }
 
 .canvas-wrap {
   position: absolute;
